@@ -19,7 +19,11 @@ Added a webscrpaer to my Discord bot to notify me when Brompton folding bikes ar
 
 ## As a person
 
-[Please Nintendo come in clutch](110meme.jpg)
+Favorite video games: Pokemon Emerald, Ocarina of Time, Breath of the Wild
+
+Please Nintendo come in clutch
+![meme rendering](./110meme.jpg)
+
 
 Last Books Read:
 1. Matt Hiag, *The Midnight Library*
