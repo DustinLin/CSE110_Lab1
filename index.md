@@ -5,8 +5,11 @@ In the wise words of the lab 1 assignment this page function as:
 
 ## As a programmer
 **VIM**, once you know you can never go back
+
 Most familiar with JavaScript and ES6 shinanigans
+
 Still uses a laptop instead of multiple monitors during stay-at-home COVID times
+
 Thinks you are inhuman if you don't use dark themes.
 
 ```
@@ -22,7 +25,7 @@ Added a webscrpaer to my Discord bot to notify me when Brompton folding bikes ar
 Favorite video games: Pokemon Emerald, Ocarina of Time, Breath of the Wild
 
 Please Nintendo come in clutch
-![meme rendering](./110meme.jpg)
+![picture-alt-tag](https://github.com/DustinLin/CSE110_Lab1/blob/master/110Meme.jpg)
 
 
 Last Books Read:
