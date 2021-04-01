@@ -22,9 +22,13 @@ Added a webscrpaer to my Discord bot to notify me when Brompton folding bikes ar
 
 ## As a person
 
+Wakes up early for no apparent reason
+
 Favorite video games: Pokemon Emerald, Ocarina of Time, Breath of the Wild
 
 Please Nintendo come in clutch
+
+
 ![picture-alt-tag](https://github.com/DustinLin/CSE110_Lab1/blob/master/110Meme.jpg)
 
 
