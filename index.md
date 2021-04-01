@@ -31,6 +31,7 @@ Please Nintendo come in clutch
 
 ![picture-alt-tag](110Meme.jpg)
 
+Here is a [link](110Meme.jpg) to the meme I created to view in all its glory.
 
 Last Books Read:
 1. Matt Hiag, *The Midnight Library*
