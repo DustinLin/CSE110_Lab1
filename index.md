@@ -29,7 +29,7 @@ Favorite video games: Pokemon Emerald, Ocarina of Time, Breath of the Wild
 Please Nintendo come in clutch
 
 
-![picture-alt-tag](https://github.com/DustinLin/CSE110_Lab1/blob/master/110Meme.jpg)
+![picture-alt-tag](110Meme.jpg)
 
 
 Last Books Read:
